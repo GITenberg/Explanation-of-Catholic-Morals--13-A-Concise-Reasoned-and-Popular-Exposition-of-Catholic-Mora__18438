@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8028'
     url: http://www.gutenberg.org/2009/agents/8028
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18438#Explanation-of-Catholic-Morals--13-A-Concise-Reasoned-and-Popular-Exposition-of-Catholic-Mora_
 gutenberg_issued: '2006-05-23'
 gutenberg_type: Text
 identifiers:
